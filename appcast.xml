@@ -1,9 +1,23 @@
-<?xml version='1.0' standalone='yes'?><!-- sparkle-sign-warning:
+<?xml version='1.0' standalone='yes'?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' version='2.0'>
+-->
+<rss xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' version='2.0'>
     <channel>
         <title>Stats Watch</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Mon, 27 Jul 2026 23:03:05 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure sparkle:edSignature='O8sD6tUcO3j0HPJZ/9KSr2mEyQFAZ6x2hzz2XC5PDKpbRpr8qAh33jh3+Wqt8DzwJhCAra+NCJfySCtPiy3LDw==' length='13505856' type='application/octet-stream' url='https://github.com/emptystring-dev/statswatch/releases/download/v0.2.2-beta.3/Stats-Watch-0.2.2-beta.3-arm64.zip'/>
+        </item>
+        
+        
+    <item>
             <title>0.2.2</title>
             <pubDate>Mon, 27 Jul 2026 19:22:18 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -12,9 +26,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure sparkle:edSignature='ZTqbmZvUWDzBy5IEvD3eN4PaIzNbYY1r1tYB+QxmvmOSTMnb+l9rBpkrkQNsMowFffRbku5UTEtr2+nfDDJgAw==' length='13504608' type='application/octet-stream' url='https://github.com/emptystring-dev/statswatch/releases/download/v0.2.2-beta.2/Stats-Watch-0.2.2-beta.2-arm64.zip'/>
-        </item>
-        
-    <item>
+        </item><item>
             <title>0.2.1</title>
             <pubDate>Mon, 27 Jul 2026 19:22:21 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -24,6 +36,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <enclosure length='12491676' type='application/octet-stream' url='https://github.com/emptystring-dev/statswatch/releases/download/v0.2.1/Stats-Watch-0.2.1-arm64.zip'/>
         </item></channel>
 </rss><!-- sparkle-signatures:
-edSignature: weyUXHCDFXQSuSC/OjxtcZlWFMffyKOnxD0W7jYtNcFMIAtcSo4AgR6rDQCwjmj17NHhYVqn393Q3NejDzDpBw==
-length: 1785
+edSignature: mhLw2cGzLD8kCNagx291xCSaTbsuxVMwpUkgzNgR+3hvqIM/HcC51+0QRiljUMgl1D3KqIaYAx7gd85/p1CPDw==
+length: 2552
 -->
