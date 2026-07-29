@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Stats Watch</title>
         <item>
             <title>0.2.2</title>
+            <pubDate>Wed, 29 Jul 2026 12:43:37 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure sparkle:edSignature='VaxgRtIxecTjnvrW0X2aFGmD1WDLjUqjMzhXtTErkkv2Xn46Y3oVG1PiU/eQ2iXTNJke5wE50yIkf5IBEGJMBQ==' length='13728338' type='application/octet-stream' url='https://github.com/emptystring-dev/statswatch/releases/download/v0.2.2-beta.5/Stats-Watch-0.2.2-beta.5-arm64.zip'/>
+            <sparkle:deltas>
+                <enclosure sparkle:deltaFrom='7' sparkle:deltaFromSparkleExecutableSize='977808' sparkle:deltaFromSparkleLocales='de,he,ar,el,ja,fa,uk' sparkle:edSignature='EuI24io7feqYsiyHghcqFR0+Z2WrSgK2rhb4x9zhqMArjTy306u5I7/EESWSnXwvIg8aXIoSYEA31xO7280CDg==' length='1729338' type='application/octet-stream' url='https://github.com/emptystring-dev/statswatch/releases/download/v0.2.2-beta.5/Stats%20Watch8-7.delta'/>
+            </sparkle:deltas>
+        </item>
+        
+        
+        
+        
+    <item>
+            <title>0.2.2</title>
             <pubDate>Tue, 28 Jul 2026 20:04:54 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>7</sparkle:version>
@@ -14,11 +31,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure sparkle:edSignature='SGzAVaxyTBqI5Qh+o0/41MvHdGvm/TvZDa0mgHpVY8sdK1oly/Z17UIyffdFNR0M0b9LwKQXWpMbdAdoJKkMAw==' length='17151828' type='application/octet-stream' url='https://github.com/emptystring-dev/statswatch/releases/download/v0.2.2-beta.4/Stats-Watch-0.2.2-beta.4-arm64.zip'/>
-        </item>
-        
-        
-        
-    <item>
+        </item><item>
             <title>0.2.2</title>
             <pubDate>Mon, 27 Jul 2026 23:03:05 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -46,6 +59,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <enclosure length='12491676' type='application/octet-stream' url='https://github.com/emptystring-dev/statswatch/releases/download/v0.2.1/Stats-Watch-0.2.1-arm64.zip'/>
         </item></channel>
 </rss><!-- sparkle-signatures:
-edSignature: MM3JBYvJZtooa41VM9KhjM7RIT1X6lFw3tdJCEqlwwngT5BGxNVeWmw/CXQDvhPatOA69zcVofFjsj7LlO0mDg==
-length: 3317
+edSignature: AOtpTY/SBAejpMUAZP/R7C3O66c/eHJOSStEe5gJpqa30ZhzjdYVGGkBYGUePtoOjZBOPTK6F2z0yM/Tzm24DA==
+length: 4562
 -->
